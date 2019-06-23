@@ -4,6 +4,7 @@
 * connect one side of the grove cable into the button
 * connect the other side of the grove cable into d4 of the grove shield
 * run the code given below
+* open serial monitor (ctrl + shift + m) to view the output
 ## CODE
 
 ### Single Press Action
