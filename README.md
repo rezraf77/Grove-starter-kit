@@ -3,4 +3,5 @@ this repository contains information on how to use the various components includ
 
 ## links
 * [Button v 1.1](https://github.com/rezraf77/Grove-starter-kit/blob/master/button/button.md)
-* [Led Socket kit v 1.5]()
+* [Led Socket kit v 1.5](https://github.com/rezraf77/Grove-starter-kit/blob/master/led/led.md)
+* [Buzzer v1.2](https://github.com/rezraf77/Grove-starter-kit/blob/master/piezo%20buzzer/buzzer.md) 
