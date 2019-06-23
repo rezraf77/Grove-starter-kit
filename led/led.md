@@ -29,7 +29,7 @@ void loop()
  //turn on led
  digitalWrite(ledPin,HIGH);
  Serial.println("LED IS ON");
- delay(Delay);
+ delay(Delay);1
  
  //turn off led
  digitalWrite(ledPin,LOW);
