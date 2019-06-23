@@ -45,3 +45,5 @@ void loop()
  
 
 ```
+## REFERENCES
+[debouncing button](https://programmingelectronics.com/tutorial-19-debouncing-a-button-with-arduino-old-version/)
