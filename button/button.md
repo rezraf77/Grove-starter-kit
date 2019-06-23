@@ -8,6 +8,8 @@
 ## CODE
 
 ### Single Press Action
+In single Press Action , when you press the switch serial monitor shows "BUTTON PRESSED" 
+and when the button is released it shows "BUTTON RELEASED"
 ```
 //Single Press action
 
