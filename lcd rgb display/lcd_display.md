@@ -2,6 +2,7 @@
 
 ## STEPS
 * connect one side of the grove cable into the lcd display
+* move the slider on the grove shield to 5v
 * connect the other side of the grove cable into any I2C port of the grove shield
 * run the code given below
 * open serial monitor (ctrl + shift + m) to view the output
