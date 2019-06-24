@@ -61,4 +61,5 @@ int getDegree()
 }
 ```
 ## REFERENCES
-[https://programmingelectronics.com/tutorial-19-debouncing-a-button-with-arduino-old-version/](https://programmingelectronics.com/tutorial-19-debouncing-a-button-with-arduino-old-version/)
+[https://github.com/Seeed-Studio/Rotary_Angle_Sensor](https://github.com/Seeed-Studio/Rotary_Angle_Sensor)
+[http://wiki.seeedstudio.com/Grove-Rotary_Angle_Sensor/](http://wiki.seeedstudio.com/Grove-Rotary_Angle_Sensor/)
