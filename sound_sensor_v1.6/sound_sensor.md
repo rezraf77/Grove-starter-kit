@@ -2,7 +2,7 @@
 
 ## STEPS
 * connect one side of the grove cable into the soundsensor
-* connect the other side of the grove cable into d4 of the grove shield
+* connect the other side of the grove cable into A0 of the grove shield
 * run the code given below
 * open serial monitor (ctrl + shift + m) to view the output
 ## CODE
